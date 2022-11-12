@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HOTEL PREDICTION</title>
+</head>
+<body style="background-color:powderblue">
+    <center>
+    <h1>
+        Hotel Predictor
+    </h1>
+    <p>
+        <form action = "{{ url_for('predict') }}" method = "POST" >
+        <input type="text" name="location" placeholder="Enter the Location"><br>
+        <input type="text" name="category" placeholder="Enter the Room Category"><br>
+        <input type="text" name="price" placeholder="Enter the Price"><br>
+        <input type="text" name="rating" placeholder="Enter the Rating"><br><br>
+        <input type="submit" value="Submit">
+        </form>
+    </p>
+    <h2>
+        A project by <br>
+        Ananya Dikshit 20BRS1016 <br>
+        Konda Satwika 20BRS1108 <br>
+        Kaviya Sree R M 20BRS1206 <br>
+        Harshitha Devina Anto 20BRS1258 <br>
+    </h2>
+    </center>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Feedback Page</title>
+</head>
+<body style="background-color:lavender">
+    <center>
+    <h1>
+        Feedback Form
+    </h1>
+    <p>
+        <form action = "{{ url_for('feedback') }}" method = "POST" >
+        <label for="rv">Please enter your Experience:</label> <br><br>
+        <textarea id="rv" name="review" cols="40" rows="5"></textarea> <br><br>
+        <input type="submit" value="Submit">
+        </form>
+    </p>
+
+    <p>
+        <h2>    The review is "{{msg}}"   </h2>
+    </p>
+
+    <a href="/">
+            Main Page
+    </a>
+    </center>
+</body>
+</html>
