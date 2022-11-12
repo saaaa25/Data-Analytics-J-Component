@@ -1,0 +1,92 @@
+Location,Room category,Price,Rating,Hotel Name
+Bengaluru,1,13213,8.3,Conrad Bengaluru
+Bengaluru,1,11232,8.3,Conrad Bengaluru
+Bengaluru,2,15907,8.3,Conrad Bengaluru
+Bengaluru,3,206479,8.3,Conrad Bengaluru
+Bengaluru,1,7841,7.2,The Lalit Ashok
+Bengaluru,2,9017,7.2,The Lalit Ashok
+Bengaluru,2,9409,7.2,The Lalit Ashok
+Bengaluru,2,15682,7.2,The Lalit Ashok
+Bengaluru,3,27444,7.2,The Lalit Ashok
+Bengaluru,1,8233,7.2,The Lalit Ashok
+Bengaluru,1,5400,7.8,Davanam Sarovar Portico Suites
+Bengaluru,2,6200,7.8,Davanam Sarovar Portico Suites
+Bengaluru,1,12800,9.4,Four Seasons Hotel Bengaluru at Embassy ONE
+Bengaluru,1,13600,9.4,Four Seasons Hotel Bengaluru at Embassy ONE
+Bengaluru,2,38089,9.4,Four Seasons Hotel Bengaluru at Embassy ONE
+Bengaluru,2,32139,9.4,Four Seasons Hotel Bengaluru at Embassy ONE
+Bengaluru,3,325000,9.4,Four Seasons Hotel Bengaluru at Embassy ONE
+Bengaluru,1,6300,7.1,Hotel Royal Orchid Bangalore
+Bengaluru,1,8050,7.1,Hotel Royal Orchid Bangalore
+Bengaluru,2,5250,7.1,Hotel Royal Orchid Bangalore
+Bengaluru,3,8750,7.1,Hotel Royal Orchid Bangalore
+Bengaluru,3,9450,7.1,Hotel Royal Orchid Bangalore
+Bengaluru,2,9000,8.3,The Oterra
+Bengaluru,1,11279,8.5,Hilton Bangalore Embassy GolfLinks
+Bengaluru,1,11279,8.5,Hilton Bangalore Embassy GolfLinks
+Bengaluru,2,12190,8.5,Hilton Bangalore Embassy GolfLinks
+Bengaluru,2,12667,8.5,Hilton Bangalore Embassy GolfLinks
+Bengaluru,2,12667,8.5,Hilton Bangalore Embassy GolfLinks
+Bengaluru,3,27500,8.5,Hilton Bangalore Embassy GolfLinks
+Delhi,2,14343,8.9,Holiday Inn
+Delhi,3,15228,8.9,Holiday Inn
+Delhi,1,7274,8.9,Holiday Inn
+Delhi,2,10801,8.5,The Park
+Delhi,1,6369,8.5,The Park
+Delhi,3,39404,8.5,The Park
+Delhi,1,10780,7.6,Hyatt Regency
+Delhi,2,17625,7.6,Hyatt Regency
+Delhi,3,25625,7.6,Hyatt Regency
+Delhi,1,22500,9.1,Taj Palace
+Delhi,2,30000,9.1,Taj Palace
+Delhi,3,52500,9.1,Taj Palace
+Delhi,2,3352,7.8,Hotel Mannat International
+Delhi,1,1588,7.8,Hotel Mannat International
+Delhi,1,11500,8.2,Le Meridien
+Delhi,3,26650,8.2,Le Meridien
+Delhi,2,14150,8.2,Le Meridien
+Delhi,2,7800,7.6,Ashok Country Resort
+Delhi,1,6950,7.6,Ashok Country Resort
+Delhi,1,11250,7.5,The Umrao
+Delhi,2,20700,7.5,The Umrao
+Delhi,3,34200,7.5,The Umrao
+Delhi,1,12824,8.1,Pride Plaza Hotel
+Delhi,2,13949,8.1,Pride Plaza Hotel
+Delhi,3,28799,8.1,Pride Plaza Hotel
+Goa,2,11199,7.7,Novotel Goa Resort & Spa
+Goa,3,12999,7.7,Novotel Goa Resort & Spa
+Goa,1,10999,7.7,Novotel Goa Resort & Spa
+Goa,4,13199,7.7,Novotel Goa Resort & Spa
+Goa,2,16500,6.8,Park Inn by Radisson Goa Candolim
+Goa,1,17000,6.8,Park Inn by Radisson Goa Candolim
+Goa,3,17500,6.8,Park Inn by Radisson Goa Candolim
+Goa,4,18500,6.8,Park Inn by Radisson Goa Candolim
+Goa,1,14940,8.2,The Lalit Golf and Spa Resort
+Goa,2,14940,8.2,The Lalit Golf and Spa Resort
+Goa,3,27265,8.2,The Lalit Golf and Spa Resort
+Goa,4,68349,8.2,The Lalit Golf and Spa Resort
+Goa,1,3020,8.6,SIA Signature Calangute
+Goa,2,3475,8.6,SIA Signature Calangute
+Goa,3,3929,8.6,SIA Signature Calangute
+Goa,1,8999,7.4,Hard Rock Hotel
+Goa,2,9499,7.4,Hard Rock Hotel
+Goa,3,9999,7.4,Hard Rock Hotel
+Goa,4,10499,7.4,Hard Rock Hotel
+Goa,1,11999,7.4,Hard Rock Hotel
+Goa,2,16999,7.4,Hard Rock Hotel
+Goa,3,23999,7.4,Hard Rock Hotel
+Mumbai,1,22500,9.4,ITC Maratha
+Mumbai,2,23500,9.9,ITC Maratha
+Mumbai,3,25500,9.65,ITC Maratha
+Mumbai,2,28474,8,"Lemon Tree Premier, Mumbai Int. Airport"
+Mumbai,1,23340,8.2,"Lemon Tree Premier, Mumbai Int. Airport"
+Mumbai,1,5116,7.5,Royal Hometel Suites Dahisar
+Mumbai,2,7004,7.7,Royal Hometel Suites Dahisar
+Mumbai,1,3500,7.1,Hotel BKC Garden
+Mumbai,2,14304,7.7,The Paradise by Tunga
+Mumbai,1,17843,8.2,The Lalit
+Mumbai,2,19721,7.9,The Lalit
+Mumbai,3,21983,8.5,The Lalit
+Mumbai,3,6192,8,Majestic Court Sarovar
+Mumbai,2,6323,8.1,Majestic Court Sarovar
+Mumbai,3,35167,8,JW Marriot
